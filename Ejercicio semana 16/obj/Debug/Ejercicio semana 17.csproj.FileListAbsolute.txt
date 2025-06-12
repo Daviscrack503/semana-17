@@ -1,0 +1,7 @@
+C:\Users\Davis\Desktop\ejercicio-semana-17-main\Ejercicio semana 16\bin\Debug\Ejercicio semana 16.exe.config
+C:\Users\Davis\Desktop\ejercicio-semana-17-main\Ejercicio semana 16\bin\Debug\Ejercicio semana 16.exe
+C:\Users\Davis\Desktop\ejercicio-semana-17-main\Ejercicio semana 16\bin\Debug\Ejercicio semana 16.pdb
+C:\Users\Davis\Desktop\ejercicio-semana-17-main\Ejercicio semana 16\obj\Debug\Ejercicio semana 17.csproj.AssemblyReference.cache
+C:\Users\Davis\Desktop\ejercicio-semana-17-main\Ejercicio semana 16\obj\Debug\Ejercicio semana 17.csproj.CoreCompileInputs.cache
+C:\Users\Davis\Desktop\ejercicio-semana-17-main\Ejercicio semana 16\obj\Debug\Ejercicio semana 16.exe
+C:\Users\Davis\Desktop\ejercicio-semana-17-main\Ejercicio semana 16\obj\Debug\Ejercicio semana 16.pdb
